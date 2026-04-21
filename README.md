@@ -61,7 +61,6 @@ O canal de **Paid Search (Busca Paga)** é o detrator crítico da operação, co
 
 ![](assets/cancelamento.png)
 
-![](assets/topMotivos.png)
 
 ### Questão 6: Qualidade e Sanitização de Dados
 Durante a auditoria, foram tratados:
