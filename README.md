@@ -63,7 +63,7 @@ O canal de **Paid Search (Busca Paga)** é o detrator crítico da operação, co
 
 
 ### Questão 6: Qualidade e Sanitização de Dados
-Durante a auditoria, foram tratados:
+Durante a análise, foram tratados:
 - **Encoding:** Correção de caracteres especiais (ex: "orgânico").
 - **Missing Values:** Identificação e tratamento de 79 pedidos sem valor total.
 - **Tipagem:** Padronização de datas para análises temporais precisas.
