@@ -24,6 +24,8 @@ A operação apresenta um volume significativo de pedidos não convertidos.
 - **Devolvidos:** 7,57%
   *Insight observado: Quase 25% da operação sofre com atritos de pós-venda ou cancelamentos prematuros.*
 
+  ![](assets/distribuicaoDePedidosPorStatus.png)
+
 ### Questão 2: Top 10 Produtos por Receita
 O ranking é liderado pelo **Tênis Esportivo 78**, gerando mais de R$ 2 milhões em receita. 
 
@@ -42,14 +44,24 @@ O ranking é liderado pelo **Tênis Esportivo 78**, gerando mais de R$ 2 milhõe
 | **Chás 118** | 637 | R$ 1.765.601,55 |
 | **Câmeras 26** | 609 | R$ 1.738.445,85 |
 
+![](assets/top10produtos.png)
+
 ### Questão 3: Ticket Médio B2B vs B2C
 Utilizando testes estatísticos, foi confirmado que o segmento **B2B** possui um ticket médio aproximadamente **6 vezes superior** ao B2C (R$ 7.778 vs R$ 1.264). A diferença foi validada com um p-valor de 0.0000, indicando alta relevância estatística.
+
+![](assets/distribuicaoDeValor.png)
 
 ### Questão 4: Sazonalidade e Tendências
 Foi identificado um pico massivo de vendas em **Novembro de 2023**, com volume 4x superior à média mensal. A hipótese principal é o sucesso de campanhas de **Black Friday**, embora o crescimento orgânico nos meses adjacentes apresente estabilidade.
 
+![](assets/evolucaoMensal.png)
+
 ### Questão 5: Causa Raiz de Cancelamentos
 O canal de **Paid Search (Busca Paga)** é o detrator crítico da operação, com uma taxa de cancelamento de **30,74%**. O motivo de suporte predominante é **"Dúvida"**, sugerindo que o investimento em anúncios está atraindo leads desqualificados ou com informações insuficientes sobre o produto.
+
+![](assets/cancelamento.png)
+
+![](assets/topMotivos.png)
 
 ### Questão 6: Qualidade e Sanitização de Dados
 Durante a auditoria, foram tratados:
@@ -64,5 +76,3 @@ Durante a auditoria, foram tratados:
 - **Pandas**: Manipulação e limpeza de dados.
 - **Seaborn / Matplotlib**: Visualização de dados e dashboards.
 - **Scipy**: Testes de hipóteses estatísticas.
-
----
