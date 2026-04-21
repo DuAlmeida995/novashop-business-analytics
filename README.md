@@ -9,11 +9,9 @@ O objetivo principal é realizar uma análise diagnóstica dos dados da NovaShop
 
 # Resumo das Questões Analisadas
 
-## Isso é apenas um resumo, a análise mais aprofundada do case se encontra no .ipynb!
+## Nota: Isso é apenas um resumo. Uma análise técnica mais aprofundada, incluindo o pipeline de limpeza de dados e justificativas estatísticas, encontra-se detalhada dentro do notebook.
 Para visualizar o código fonte, os tratamentos de dados passo a passo e as visualizações interativas, acesse o arquivo:
 **[analise_novashop.ipynb](./analise_novashop.ipynb)**
-
-*Nota: Uma análise técnica mais aprofundada, incluindo o pipeline de limpeza de dados e justificativas estatísticas, encontra-se detalhada dentro do notebook.*
 
 **Desenvolvido por:** Eduardo Almeida Cavalcanti de Melo
 ---
